@@ -2,5 +2,5 @@
 
 Artikel ini membahas tentang pentingnya menggunakan masker untuk memutus penyebaran COVID-19 dan bagaimana teknologi Convolutional Neural Network (CNN) dapat digunakan untuk mendeteksi penggunaan masker yang tepat. CNN merupakan algoritma Deep Learning yang populer untuk masalah klasifikasi data gambar. Penelitian ini menggunakan model MobileNetV2 yang telah dilatih sebelumnya untuk membantu membangun Mask Usage Detector. Selain itu, penelitian ini membandingkan performa tiga metode optimisasi dari CNN, yaitu Adam, SGD, dan RMSprop dalam mendeteksi penggunaan masker. Performa diukur berdasarkan hasil uji coba dengan menganalisis nilai akurasi, presisi, dan recall. Dataset yang digunakan adalah gambar berjumlah 2.029, terdiri dari kategori "dengan masker" dan "tanpa masker". Hasil uji coba menunjukkan bahwa optimisasi Adam memiliki performa terbaik dengan akurasi mencapai 93,84%. Dengan demikian, penelitian ini memberikan kontribusi penting dalam mengembangkan teknologi deteksi penggunaan masker yang efektif untuk membantu memutus penyebaran COVID-19.
 
-link Project: https://github.com/despygurl/facemask-detection
-link artikel: http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276
+### link Project: https://github.com/despygurl/facemask-detection
+### link artikel: http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276
