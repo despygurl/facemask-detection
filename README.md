@@ -8,7 +8,7 @@ This article discusses the importance of using masks to prevent the spread of CO
 
 ### Project link: https://github.com/despygurl/facemask-detection
 ### Publication/Article link: [Article] (http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276)
-### PPT Project: [Project Explanation.pptx](https://drive.google.com/file/d/1NzFcBGYx8m8SGTooJa2dBlq7K-fYU8v1/view?usp=sharing)https://drive.google.com/file/d/1NzFcBGYx8m8SGTooJa2dBlq7K-fYU8v1/view?usp=sharing
+### PPT Project: [Project Explanation.pptx](https://drive.google.com/file/d/1NzFcBGYx8m8SGTooJa2dBlq7K-fYU8v1/view?usp=sharing)
 
 
 
