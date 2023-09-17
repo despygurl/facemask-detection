@@ -7,7 +7,7 @@ Artikel ini membahas tentang pentingnya menggunakan masker untuk memutus penyeba
 This article discusses the importance of using masks to prevent the spread of COVID-19 and how Convolutional Neural Network (CNN) technology can be used to detect proper mask usage. CNN is a popular Deep Learning algorithm for image data classification problems. This research uses the pre-trained MobileNetV2 model to help build the Mask Usage Detector. In addition, this study compares the performance of three optimization methods of CNN, namely Adam, SGD, and RMSprop, in detecting mask usage. The performance is measured based on the results of testing by analyzing the accuracy, precision, and recall values. The dataset used consists of 2,029 images, consisting of categories of "with mask" and "without mask". The test results show that the Adam optimization has the best performance with an accuracy of up to 93.84%. Therefore, this research provides an important contribution to the development of effective mask usage detection technology to help break the chain of COVID-19 transmission.
 
 ### Project link: https://github.com/despygurl/facemask-detection
-### Publication/Article link: [Article] (http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276)
+### Publication/Article link: [Article](http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276)
 ### PPT Project: [Project Explanation.pptx](https://drive.google.com/file/d/1NzFcBGYx8m8SGTooJa2dBlq7K-fYU8v1/view?usp=sharing)
 
 
