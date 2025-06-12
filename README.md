@@ -11,11 +11,13 @@ This project was developed as part of an academic study and aims to:
 Dataset: 2029 labeled face images  
 Classes: `with_mask`, `without_mask`
 
+
 ## 🔧 How to Run
+Clone this repository:
 
-1. Clone this repository:
+<pre><code>git clone https://github.com/despygurl/facemask-detection.git 
+  cd facemask-detection</code></pre>
 
-<pre><code>git clone https://github.com/despygurl/facemask-detection.git cd facemask-detection</code></pre>
 
 ## 🔗 Article & Presentation
 
