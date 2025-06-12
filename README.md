@@ -25,8 +25,10 @@ Classes: `with_mask`, `without_mask`
 ## 🔧 How to Run
 
 1. Clone this repository:
-```bash```
-```git clone https://github.com/despygurl/facemask-detection.git```
-```cd facemask-detection```
+
+<pre><code>1. Clone this repository: ```bash git clone https://github.com/despygurl/facemask-detection.git cd facemask-detection ``` </code></pre>
 
 ## 🔗 Article & Presentation
+
+- [Jurnal RESTI](http://jurnal.iaii.or.id/index.php/RESTI/article/view/4276)
+- [PPT Project](https://drive.google.com/file/d/1NzFcBGYx8m8SGTooJa2dBlq7K-fYU8v1/view?usp=sharing)
